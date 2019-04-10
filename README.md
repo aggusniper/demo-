@@ -7,4 +7,4 @@ This is a simple README file
 add some info
 add new changes
 
-this gonna cause the conflict
+i hope this isn't gonna cause some much trouble
